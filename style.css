@@ -7,7 +7,7 @@ html, css{
 
 }
 .container{
-  background: #7159c1
+  background: #7159c1;
   display: grid;
   grid-template-columns: 3fr 1fr;
   grid-template-rows: 20vh 70vh 10vh;
@@ -27,7 +27,7 @@ html, css{
 }
 .pages > div{
   background: green;
-
+  
 }
 header{
   background: yellow;
